@@ -29,18 +29,5 @@
 - **RAII** — автоматическое управление ресурсами
 - **Потокобезопасность** — мьютексы для конкурентного доступа
 
-## Структура проекта
-├── cherkasovdll/ # Общая библиотека (C++)
-│ ├── NetworkTransportCherkasov.h/cpp
-│ ├── MessageCherkasov.h
-│ └── exports.h/cpp
-│
-├── ServerCherkasov/ # Серверное приложение
-│ ├── ServerTransportCherkasov.h/cpp
-│ ├── LocalTransportCherkasov.h/cpp
-│ └── SessionCherkasov.h/cpp
-│
-└── SharpCherkasov/ # WPF/WinForms клиент (C#)
-├── FormCherkasov.cs
-├── MsgStructCherkasov.cs
-└── Program.cs
+## Примерная диаграмма транспортных классов
+
