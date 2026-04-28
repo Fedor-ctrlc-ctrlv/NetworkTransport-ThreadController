@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cherkasovdll/cherkasovdll.vcxproj" Id="f96419d7-26a2-4e26-9700-0fa83438bc45" />
+  <Project Path="ClientCherkasov/SharpCherkasov.csproj" Id="7857f3aa-7cb4-4fa2-b943-dd1849585a05" />
+  <Project Path="ServerCherkasov/ServerCherkasov.vcxproj" Id="18513d1c-7f7f-4e14-9ffd-38bce8008e39" />
+</Solution>

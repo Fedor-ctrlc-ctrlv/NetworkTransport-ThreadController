@@ -1,0 +1,9 @@
+C:\Users\Fedor\source\repos\Cherkasovlb3\x64\Debug\ClientCherkasov.exe.config
+C:\Users\Fedor\source\repos\Cherkasovlb3\x64\Debug\ClientCherkasov.exe
+C:\Users\Fedor\source\repos\Cherkasovlb3\x64\Debug\ClientCherkasov.pdb
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\SharpCherkasov.csproj.AssemblyReference.cache
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\ClientCherkasov.Properties.Resources.resources
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\SharpCherkasov.csproj.GenerateResource.cache
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\SharpCherkasov.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\ClientCherkasov.exe
+C:\Users\Fedor\source\repos\Cherkasovlb3\ClientCherkasov\obj\Debug\ClientCherkasov.pdb

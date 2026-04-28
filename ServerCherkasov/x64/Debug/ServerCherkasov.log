@@ -1,0 +1,15 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets(2189,5): warning MSB9008: указанный проект ..\cherkasovdll\cherkasovdll.vcxproj не существует.
+  LocalTransportCherkasov.cpp
+  ServerCherkasov.cpp
+  Please define _WIN32_WINNT or _WIN32_WINDOWS appropriately. For example:
+  - add -D_WIN32_WINNT=0x0601 to the compiler command line; or
+  - add _WIN32_WINNT=0x0601 to your project's Preprocessor Definitions.
+  Assuming _WIN32_WINNT=0x0601 (i.e. Windows 7 target).
+C:\Users\Fedor\source\repos\Cherkasovlb3\ServerCherkasov\ServerCherkasov.cpp(164,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Fedor\source\repos\Cherkasovlb3\ServerCherkasov\ServerCherkasov.cpp(186,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Fedor\source\repos\Cherkasovlb3\ServerCherkasov\ServerCherkasov.cpp(194,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Fedor\source\repos\Cherkasovlb3\ServerCherkasov\ServerCherkasov.cpp(212,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ServerTransportCherkasov.cpp
+  SessionCherkasov.cpp
+  Создание кода...
+  ServerCherkasov.vcxproj -> C:\Users\Fedor\source\repos\Cherkasovlb3\x64\Debug\ServerCherkasov.exe
